@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Eu sou a Stephany Souza !
+## Eu sou Stephany Souza !
 
 🌱Estou atualmente participando do Bootcamp da Generation onde estou aprendendo não somente as linguagens de Java, Spring Boot, HTML, CSS, JavaScript e Angular, mas também ampliando habilidades e mentalidades profissionais. <br>
 ⚡Em breve mais novidades estão por vir, este é apenas o começo da jornada. 
