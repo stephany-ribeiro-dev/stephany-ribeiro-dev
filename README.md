@@ -28,10 +28,10 @@ Here are some ideas to get you started:
  ![Snake animation](https://github.com/11Stephany/11Stephany/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/11Stephany">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=11Stephany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11Stephany&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=11Stephany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11Stephany&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
 
