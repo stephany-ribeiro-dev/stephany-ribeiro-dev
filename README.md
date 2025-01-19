@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**11Stephany/11Stephany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stephany-ribeiro-dev/stephany-ribeiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,25 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Eu sou Stephany Souza !
+## Eu sou Stephany Ribeiro !
 
-🌱Estou atualmente participando do Bootcamp da Generation onde estou aprendendo não somente as linguagens de Java, Spring Boot, HTML, CSS, JavaScript e Angular, mas também ampliando habilidades e mentalidades profissionais. <br>
+🌱Estou atualmente participando do Bootcamp da Oracle ONE Next Education onde estou aprendendo não somente as linguagens de Java, Spring Boot, HTML, CSS, JavaScript  mas também ampliando habilidades. <br>
 ⚡Em breve mais novidades estão por vir, este é apenas o começo da jornada. 
 
 
 <div> 
-  <a href="https://www.linkedin.com/in/stephany-souza-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/stephany-ribeiro-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 
 
- ![Snake animation](https://github.com/11Stephany/11Stephany/blob/output/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com//stephany-ribeiro-dev/stephany-ribeiro-dev/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
 <div align="center">
-  <a href="https://github.com/11Stephany">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=11Stephany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com//stephany-ribeiro-dev">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=/stephany-ribeiro-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11Stephany&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=/stephany-ribeiro-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
 
