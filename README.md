@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  </div>
 
 
- ![Snake animation](https://github.com//stephany-ribeiro-dev/stephany-ribeiro-dev/blob/output/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com/stephany-ribeiro-dev/stephany-ribeiro-dev/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
 <div align="center">
