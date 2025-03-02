@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Eu sou Stephany Ribeiro !
 
-🌱Estou atualmente obtendo formação em Análise e Desenvolvimento de Sistemas e também participando do Bootcamp da Oracle, ONE Next Education, onde estou aprendendo não somente a Java e as principais técnologias, mas estou aprofundando e evoluindo habilidades técnicas e comportamentais. <br>
+🌱Estou atualmente obtendo formação em Análise e Desenvolvimento de Sistemas e também participando do Bootcamp da Oracle, ONE Next Education, onde estou aprendendo não somente Java e as principais técnologias, mas estou aprofundando e evoluindo habilidades técnicas e comportamentais. <br>
 ⚡Em breve mais novidades estão por vir. 
 
 
