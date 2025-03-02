@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Eu sou Stephany Ribeiro !
 
 🌱Estou atualmente obtendo formação em Análise e Desenvolvimento de Sistemas e também participando do Bootcamp da Oracle, ONE Next Education, onde estou aprendendo não somente a Java e as principais técnologias, mas estou aprofundando e evoluindo habilidades técnicas e comportamentais. <br>
-⚡Em breve mais novidades estão por vir, é apenas o começo da jornada. 
+⚡Em breve mais novidades estão por vir. 
 
 
 <div> 
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/stephany-ribeiro-dev">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=stephany-ribeiro-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=stephany-ribeiro-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephany-ribeiro-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephany-ribeiro-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
 
